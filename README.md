@@ -1,2 +1,2 @@
-# ComputerVision
-Here are my endeavours in computer vision.
+# Simpsons Computer Vision
+
